@@ -1,0 +1,27 @@
+# Environnement virtuel Python
+venv/
+.venv/
+env/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers de modèles (trop lourds pour GitHub)
+*.bin
+*.pt
+*.safetensors
+*.gguf
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
