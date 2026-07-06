@@ -1,5 +1,7 @@
 # Assistant Bankily (RAG) 🏦
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hamoud-7/RAG_BANKILY)
+
 Ce projet est un assistant intelligent basé sur l'architecture **RAG (Retrieval-Augmented Generation)**, conçu pour répondre aux questions concernant les services de **Bankily** et de la **Banque Populaire de Mauritanie (BPM)**.
 
 L'assistant est capable de répondre aux questions en **français** et en **arabe**, en s'appuyant sur une base de connaissances officielle (fichiers Markdown).
